@@ -30,6 +30,6 @@ class PrimeNumbers {
         }
 
         System.out.println();
-        System.out.println("Count of prime numbers = " + count);
+        System.out.println("Count = " + count);
     }
 }
